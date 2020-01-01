@@ -1,5 +1,5 @@
 <?php
-echo "Primer projecte compartit conflicte";
+echo "Primer projecte compartit no conflicte";
 
 echo "Modificio Laura";
 echo "Modificacio Xavi";
