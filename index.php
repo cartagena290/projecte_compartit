@@ -15,5 +15,8 @@ echo "Modificacio 2 Xavi";
 
 echo "hola caracola";
 
-echo "hola Laura";
+echo "hola Laurita";
+
+echo "nova linia xavi";
+
 ?>
