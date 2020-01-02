@@ -29,4 +29,6 @@ echo "rebase4";
 
 echo "rebase5";
 
+echo "rebase6";
+
 ?>
