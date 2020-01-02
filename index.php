@@ -1,5 +1,5 @@
 <?php
-echo "Primer projecte compartit";
+echo "Primer projecte compartit jenkins";
 
 echo "Modificio Laura";
 echo "Modificacio Xavi";
