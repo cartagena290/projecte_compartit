@@ -19,6 +19,10 @@ echo "hola Laurita";
 
 echo "nova linia xavi";
 
-echo "rebase1"
+echo "rebase1";
+
+echo "rebase2";
+
+echo "rebase3";
 
 ?>
