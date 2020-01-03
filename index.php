@@ -22,5 +22,15 @@ echo "rebase5";
 
 echo "rebase6";
 
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 echo "rebase"
+=======
+echo "rebase7";
+
+>>>>>>> Stashed changes
+=======
+echo "rebase7";
+
+>>>>>>> Stashed changes
 ?>
